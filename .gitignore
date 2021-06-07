@@ -1,0 +1,8 @@
+DATA/
+DATA_Standardized/
+tensorboard_runs/
+.vscode/
+log/
+__pycache__
+trec_eval-9.0.7
+.DS_Store

@@ -1,0 +1,4 @@
+tqdm
+cython==0.29.21
+networkx==2.5
+nltk==3.5 
