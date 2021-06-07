@@ -57,7 +57,7 @@ if __name__ == '__main__':
     # pickle_path = '../data/graph_node/train.win5.pickle.gz'
     # out_dot_path = '../dot_train'
     pickle_folder_path = '../data/nlp/train_gpickles'
-    out_dot_path = '/Users/hejiecui/Data/SemiGIN_Dataset/dot/dot_train_whole'
+    out_dot_path = '../data/SemiGIN_Dataset/dot/dot_train_whole'
 
     do_read(pickle_folder_path, out_dot_path)
 
