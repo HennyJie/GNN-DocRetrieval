@@ -2,7 +2,7 @@
 
 ## Dataset and Repo Organization
 
-This is the code base for paper: Are Powerful GNNs Imperative for Document Retrieval? A Case Study on TREC-COVID with Concept Maps.
+This is the code base for paper: How Can Graph Neural Networks Help Document Retrieval: A Case Study on CORD19 with Concept Map Generation.
 
 The official datasets we used in our study and the detailed information of each file can be found in the link below.
 - CORD: <https://github.com/allenai/cord19>
