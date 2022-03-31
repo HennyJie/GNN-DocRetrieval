@@ -102,3 +102,18 @@ See the official documents for more usage.
 - cython 0.29.21
 - tqdm 4.55.0
 - nni 2.0
+
+
+# Citation
+
+Please cite our paper if you find this code useful for your work:
+
+```
+@article{cui2022can,
+  title={How Can Graph Neural Networks Help Document Retrieval: A Case Study on CORD19 with Concept Map Generation},
+  author={Cui, Hejie and Lu, Jiaying and Ge, Yao and Yang, Carl},
+  journal={arXiv preprint arXiv:2201.04672},
+  year={2022}
+}
+```
+
