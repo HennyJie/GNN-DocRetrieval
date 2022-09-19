@@ -109,11 +109,13 @@ See the official documents for more usage.
 Please cite our paper if you find this code useful for your work:
 
 ```
-@article{cui2022can,
+@inproceedings{cui2022can,
   title={How Can Graph Neural Networks Help Document Retrieval: A Case Study on CORD19 with Concept Map Generation},
   author={Cui, Hejie and Lu, Jiaying and Ge, Yao and Yang, Carl},
-  journal={arXiv preprint arXiv:2201.04672},
-  year={2022}
+  booktitle={European Conference on Information Retrieval},
+  pages={75--83},
+  year={2022},
+  organization={Springer}
 }
 ```
 
